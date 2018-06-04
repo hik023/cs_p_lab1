@@ -1,0 +1,7 @@
+C:\Users\aleksandrbalaev\source\repos\parallelLab\parallelLab\bin\Debug\parallelLab.exe.config
+C:\Users\aleksandrbalaev\source\repos\parallelLab\parallelLab\bin\Debug\parallelLab.exe
+C:\Users\aleksandrbalaev\source\repos\parallelLab\parallelLab\bin\Debug\parallelLab.pdb
+C:\Users\aleksandrbalaev\source\repos\parallelLab\parallelLab\obj\Debug\parallelLab.csprojResolveAssemblyReference.cache
+C:\Users\aleksandrbalaev\source\repos\parallelLab\parallelLab\obj\Debug\parallelLab.csproj.CoreCompileInputs.cache
+C:\Users\aleksandrbalaev\source\repos\parallelLab\parallelLab\obj\Debug\parallelLab.exe
+C:\Users\aleksandrbalaev\source\repos\parallelLab\parallelLab\obj\Debug\parallelLab.pdb
